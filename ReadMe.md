@@ -13,6 +13,3 @@ source article: https://www.youtube.com/redirect?event=video_description&redir_t
 - [逻辑时间与广播协议](./ch4/ch4.md)
 - [replication复制](./ch5/ch5.md)
 
-RAID 用做单一节点的复制
-
-#### 状态更新重试
