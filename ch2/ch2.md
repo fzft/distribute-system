@@ -15,6 +15,15 @@ No common knowledge
 ### the Byzantine generals problems 拜占庭问题: 节点行为的模型
 ![alt text](./b-general.png)
 need 3f+1 generals in total to tolerate f malicious generals
+证明：
+![alt text](./byz.png)
+
+#### 解决办法
+假设
+1. 少于1/3的将军是叛徒
+2. 口头信息
+3. 信息没有被加密
+![alt text](./byz2.png)
 
 ### 系统模型
 1. 网络表现(eg.信息丢失)

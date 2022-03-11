@@ -1,5 +1,5 @@
 # 分布式系统 
-source article: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXphWlNpdlNwUVhoUDlSZjJwWFI5dWtaNTY5QXxBQ3Jtc0tsUm9HdGY3Y3EwQ2UtUk5DUEpRMFpQN0x4Q3dZT1hPRmhaR0gybU9VTEdaZEVzdFd1UU5oODB3dUMtMjV1V1FVdlhrVlVlZmhDakRON2Z1N3NVUmgzM0c3Yk11THY0QU1WMjRWSDBiSVU3SGYyR2J1RQ&q=https%3A%2F%2Fwww.cl.cam.ac.uk%2Fteaching%2F2122%2FConcDisSys%2Fdist-sys-notes.pdf
+source article: https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf
 
 原文是剑桥大学的分布式系统课程，这里做了简单的翻译工作，
 有兴趣的同学可以订阅 Dr.Martin Kleppmann
@@ -12,4 +12,4 @@ source article: https://www.youtube.com/redirect?event=video_description&redir_t
 - [时间，事件问题](./ch3/ch3.md)
 - [逻辑时间与广播协议](./ch4/ch4.md)
 - [replication复制](./ch5/ch5.md)
-
+- [一致性](./ch6/ch6.md)
