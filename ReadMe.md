@@ -13,3 +13,4 @@ source article: https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes
 - [逻辑时间与广播协议](./ch4/ch4.md)
 - [replication复制](./ch5/ch5.md)
 - [一致性](./ch6/ch6.md)
+- [replica consistency](./ch7/ch7.md)
