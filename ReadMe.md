@@ -14,3 +14,4 @@ source article: https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes
 - [replication复制](./ch5/ch5.md)
 - [一致性](./ch6/ch6.md)
 - [replica consistency](./ch7/ch7.md)
+- [协作软件](./ch8/ch8.md)

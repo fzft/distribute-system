@@ -1,5 +1,3 @@
-## 一致性
-
 #### 如果主节点崩了这么办
 1. Manual failover: 人工的去选择一个新的leader节点，配置每一个子节点使用新的leader节点
 
@@ -19,4 +17,4 @@ Paxos, raft 通过主节点对信息进行排序
 #### RAFT 算法
 演示 http://thesecretlivesofdata.com/raft/
 
-#### Paxos 
+#### Paxos  
